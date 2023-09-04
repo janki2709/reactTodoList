@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/janki2709/todoListReact",
   "dependencies": {
+    "@vitejs/plugin-react": "^4.0.4",
     "react-scripts": "^2.1.3",
     "vite": "^4.4.9"
   }
