@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/janki2709/todoListReact",
   "dependencies": {
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^2.1.3"
   }
 }
